@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/AleoHQ/sdk#readme",
   "dependencies": {
-    "@aleohq/wasm": "^0.6.0",
+    "@aleohq/wasm": "~/sdk/wasm",
     "comlink": "^4.4.1",
     "mime": "^3.0.0",
     "sync-request": "^6.1.0"
